@@ -1,0 +1,55 @@
+{
+    "name": "BoatControll",
+    "maps": [
+        {
+            "name": "KeyboarMap",
+            "id": "f35566b7-f76f-46e3-836c-0d7c474cbeac",
+            "actions": [
+                {
+                    "name": "MoveBoat",
+                    "type": "Button",
+                    "id": "d2c39bd5-a980-4af7-94af-7856cf1f92b0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "Tap"
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "1D Axis",
+                    "id": "d857509a-c1bb-4bfd-8be6-19dd534ff59f",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveBoat",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "a9062f3a-d852-4e03-942c-887a2c03c938",
+                    "path": "<Keyboard>/leftArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveBoat",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "1d25351c-281b-4b59-959e-d2aec236233b",
+                    "path": "<Keyboard>/rightArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveBoat",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

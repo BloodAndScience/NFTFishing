@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG
+    uniqueID: 3665399179
+    locked: 0
+  - name: Boat
+    uniqueID: 132465711
+    locked: 0
+  - name: Water
+    uniqueID: 3307237397
+    locked: 0
+  - name: FG
+    uniqueID: 2724900829
+    locked: 0
