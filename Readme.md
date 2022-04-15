@@ -1,5 +1,5 @@
 # NFT Fishing 
-![Game thumbnail](~\res\thumbnail.jpg)
+![Game thumbnail](res/thumbnail.jpg)
 
 ## Todo
 
