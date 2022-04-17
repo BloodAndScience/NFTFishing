@@ -9,11 +9,12 @@
 	- [x] 2D Scene
 	- [x] Fisher Movment
 	- [x] Web published
-- [ ] **MVP** NFT
+- [ ] **NFT** Art
     - [ ] Generate colors 64x64
     - [ ] Generate color + icon 64x64
-    - [ ] Generate color + icon 64x64
-    - [ ] Generate color + icon 64x64
+    - [ ] Combine complicated art
+	
+- [ ] NFT collection web page
 
 ## MVP 
 
