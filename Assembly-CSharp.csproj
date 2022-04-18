@@ -56,14 +56,19 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\GameManager.cs" />
-    <Compile Include="Assets\InputManger.cs" />
     <Compile Include="Assets\Boat.cs" />
+    <Compile Include="Assets\MeshVoxelizer\Scripts\MeshVoxelizer.cs" />
+    <Compile Include="Assets\MeshVoxelizer\Scripts\Voxel.cs" />
     <Compile Include="Assets\OnTriggerEnble.cs" />
+    <Compile Include="Assets\MeshVoxelizer\Scripts\MVoxelizerUtil.cs" />
+    <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\Scripts\ObjectSpawner.cs" />
+    <Compile Include="Assets\MeshVoxelizer\Scripts\VoxelGroup.cs" />
     <Compile Include="Assets\Scripts\ConstantRotation.cs" />
+    <Compile Include="Assets\InputManger.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\MeshVoxelizer\readme.txt" />
     <None Include="Assets\Sprites\Font.txt" />
     <None Include="Assets\Sprites\License.txt" />
   </ItemGroup>

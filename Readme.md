@@ -16,6 +16,9 @@
 	
 - [ ] NFT collection web page
 
+- [ ] :w
+-
+
 ## MVP 
 
 We are incontrol of the both and we can control it. 
