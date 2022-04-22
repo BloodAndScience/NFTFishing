@@ -238,31 +238,14 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 10bfd483981c813489837bce7e874bed, type: 3}
   - {fileID: 21300000, guid: b4d47dfb02d032f42ac4535be0409eab, type: 3}
   _planets:
-  - {fileID: 21300000, guid: b394955f27013b442a6f1a25659d781a, type: 3}
-  - {fileID: 21300000, guid: d1d96209abdc77d45939690d2b99dec3, type: 3}
-  - {fileID: 21300000, guid: 77c6d587ea448c9498e2a5b46403bf99, type: 3}
-  - {fileID: 21300000, guid: e3b7727dca478b840a83cae37d5310d0, type: 3}
-  - {fileID: 21300000, guid: 2282a56c1c5bd7c40af9a8c87a3ff550, type: 3}
-  - {fileID: 21300000, guid: 95321ea39b60ff04ca6f4a35c63d938e, type: 3}
-  - {fileID: 21300000, guid: 5c9d9a4111bcf3f40b039144fa334e20, type: 3}
-  - {fileID: 21300000, guid: 052fb12bc0cc63b49b5fbc1144507ccd, type: 3}
-  - {fileID: 21300000, guid: 45e2489caed3b544db5c2fbfdb40a72d, type: 3}
-  - {fileID: 21300000, guid: 68497995762a91b46aa5cb8f2e0d13c8, type: 3}
-  - {fileID: 21300000, guid: 9314e58c350ae7b4d97ea0631dead2e0, type: 3}
-  - {fileID: 21300000, guid: 092028dded1d1e944a741312f4d792f8, type: 3}
   - {fileID: 21300000, guid: 539949493fef40c44ae068f75bdab07a, type: 3}
   - {fileID: 21300000, guid: 32d651f52ce0c424abfdf0e061ed48bf, type: 3}
   - {fileID: 21300000, guid: 926bbe2a9c1ad57488903d916da1dc19, type: 3}
-  - {fileID: 21300000, guid: 9e6266c61b2ff07418dc60659f8852ac, type: 3}
-  - {fileID: 21300000, guid: 930a6df358c0701488ce4a9f1650e0c0, type: 3}
-  - {fileID: 21300000, guid: ac7b38ef508c19547b48d27da08c1287, type: 3}
-  - {fileID: 21300000, guid: df12d72a718d09740a172695b99883d8, type: 3}
-  - {fileID: 21300000, guid: 8727e6d2c8a46a4499e21d9d1e819dc4, type: 3}
-  - {fileID: 21300000, guid: 65f0d94b0f04ff541a2044a2cba36f6c, type: 3}
-  - {fileID: 21300000, guid: 691405a2235f18844b4095d97730607e, type: 3}
-  - {fileID: 21300000, guid: 2588898fc86d96a469237dd84a0e6578, type: 3}
-  - {fileID: 21300000, guid: c767ac2384f1d1b48a4394a7f3429bb9, type: 3}
-  - {fileID: 21300000, guid: d397c7dcc9a4adf40921f018e123ea06, type: 3}
+  - {fileID: 21300000, guid: 052fb12bc0cc63b49b5fbc1144507ccd, type: 3}
+  - {fileID: 21300000, guid: 45e2489caed3b544db5c2fbfdb40a72d, type: 3}
+  - {fileID: 21300000, guid: 68497995762a91b46aa5cb8f2e0d13c8, type: 3}
+  - {fileID: 21300000, guid: 25e6a945fb63754499266deb37dfbc86, type: 3}
+  - {fileID: 21300000, guid: 14ee131aa3a1a7643b6d0351f6bdfd47, type: 3}
   _fish: {fileID: 205701767}
   _planet: {fileID: 2135683907}
 --- !u!1 &205701766
@@ -508,8 +491,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2135683906}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 10, y: 10, z: 2.0227354}
+  m_LocalPosition: {x: -0.72, y: 0.67, z: 0}
+  m_LocalScale: {x: 1.6615, y: 1.6615, z: 0.33607748}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
